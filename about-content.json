@@ -1,0 +1,58 @@
+{
+  "version": "2.9.8",
+  "release_date": "۱۴۰۵/۰۸/۱۷",
+  "total_tools": 210,
+  "next_version": {
+    "version": "3.0.0",
+    "planned_date": "۱۴۰۵/۰۹/۳۰",
+    "features": [
+      "پشتیبانی از چند سایت (Multisite)",
+      "ابزارهای تحلیل تصویر با AI Vision",
+      "سیستم Queue برای عملیات‌های سنگین",
+      "Webhook‌های سفارشی",
+      "GraphQL MCP Server",
+      "Dark Mode برای پنل ادمین"
+    ]
+  },
+  "featured_agents": [
+    {
+      "name": "AutoClaw",
+      "description": "بهترین سازگاری با افزونهٔ ما و اجرای روان",
+      "url": "https://openclaw.ai"
+    },
+    {
+      "name": "Cline",
+      "description": "مارکت‌پلیس داخلی و مدیریت آسان MCP",
+      "url": "https://cline.bot"
+    },
+    {
+      "name": "Cursor",
+      "description": "ویرایشگر کد هوشمند با پشتیبانی عالی",
+      "url": "https://cursor.com"
+    },
+    {
+      "name": "OpenClaw",
+      "description": "ایجنت رایگان با مدل‌هایی مثل Kimi K2.5",
+      "url": "https://openclaw.ai"
+    }
+  ],
+  "learn_more": [
+    {
+      "title": "مستندات رسمی Model Context Protocol",
+      "url": "https://modelcontextprotocol.io"
+    },
+    {
+      "title": "RFC 8414 - OAuth 2.0 Authorization Server Metadata",
+      "url": "https://datatracker.ietf.org/doc/html/rfc8414"
+    },
+    {
+      "title": "RFC 7636 - Proof Key for Code Exchange (PKCE)",
+      "url": "https://datatracker.ietf.org/doc/html/rfc7636"
+    }
+  ],
+  "contact": {
+    "email": "visionskyir@gmail.com  ",
+    "telegram": "@VisionSkySupport",
+    "github": "https://github.com/sajadgraph"
+  }
+}
